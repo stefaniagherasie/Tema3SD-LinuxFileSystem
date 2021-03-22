@@ -1,7 +1,7 @@
 # Tema3SD-LinuxFileSystem
 [Tema3 Structuri de date (2018-2019, seria CB)] 
 
-Tema presupune crearea unei structuri de tip trie pentru reprezentarea unui sistem de fisiere Lynux care efectueaza anumite comenzi. Enunt: https://acs.curs.pub.ro/2018/pluginfile.php/54368/mod_assign/intro/Tema%203%20-%20Linux%20Filesystem.pdf
+Tema presupune crearea unei structuri de tip trie pentru reprezentarea unui sistem de fisiere Linux care efectueaza anumite comenzi. Enunt: https://acs.curs.pub.ro/2018/pluginfile.php/54368/mod_assign/intro/Tema%203%20-%20Linux%20Filesystem.pdf
 
 
 
