@@ -8,6 +8,7 @@ Enunt: https://acs.curs.pub.ro/2018/pluginfile.php/54368/mod_assign/intro/Tema%2
 
 
 
+#### IMPLEMENTARE
 Structura de trie are in componenta un vector de fii(children) care retine
 caractere alfa-numerice si '/' si '.', campurile 'isFile' si 'isDirectory' prin 
 care se marcheaza sfarsitul numelui unui fisier, respectiv al unui director.
